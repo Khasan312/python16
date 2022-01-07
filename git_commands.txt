@@ -8,6 +8,7 @@ git init  - инициализация
 
 git add <file_name> <.> -для проверки статуса
 git commit -m 'comments" - он фиксирует файл и создает хэш сумму
+git push origin master - отправка всех локальных коммитов в удаленный репозиторий
 
 git remote add origin git@github.com:Khasan312/python16.git
 
