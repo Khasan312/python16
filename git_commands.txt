@@ -12,5 +12,8 @@ git commit -m 'comments" - он фиксирует файл и создает х
 git remote add origin git@github.com:Khasan312/python16.git
 
 git clone - просто клон проекта  из удаленного сервера 
- sadsfasf
- dsfgkerppk,weofj
+
+git config --global user.name 'Khasan'
+git config --global user.email 'hasan.aliev.2000@mail.ru'
+
+
